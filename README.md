@@ -7,7 +7,7 @@
 - 🔷FB: @lahoangphuc1312
 - 📩Gmail: lahoangphuc03@gmail.com
 - 📞 Zalo And Number Phone : 0374.852.925
-️💅 I am looking forward to knowing more about this opportunity and I will be happy to answer more questions about myself. Thanks a lot for reading.
+- 💅 I am looking forward to knowing more about this opportunity and I will be happy to answer more questions about myself. Thanks a lot for reading.
 <!---
 phuclaits/phuclaits is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
