@@ -4,7 +4,7 @@
 - 👀 Programming is the career I want to pursue in the future. Therefore, I love this job very much and accompany it for a long time. I am looking to join your organization to explore new dimensions and for the further development of my skills.
 - 💞️ I'm single. I think I need to focus more on work instead of love.
 - ✔️ Please contact me for work. Contact below:
-- 🔷FB: @lahoangphuc1312
+- 🔷FB: /lahoangphuc1312
 - 📩Gmail: lahoangphuc03@gmail.com
 - 📞 Zalo And Number Phone : 0374.852.925
 - 💅 I am looking forward to knowing more about this opportunity and I will be happy to answer more questions about myself. Thanks a lot for reading.
