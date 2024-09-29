@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,aws,gcp,ubuntu,linux,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,nextjs,mysql,graphql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,tensorflow,sklearn,javascript,firebase,mongodb,c,dotnet,cs,java,nextjs,mysql,graphql" /><br>
 </div>
 
 <br/>
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/phuclaits/phuclaits/output/github-contribution-grid-snake.svg" />
+  <img alt="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
   
   <br/><br/><br/>
 </div>
