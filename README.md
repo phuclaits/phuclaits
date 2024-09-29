@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=phuclaits.phuclaits/" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+La Hoang Phuc!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+La+Hoang+Phuc;" />
 </h1>
 
 <h3 align="center">My major is Data Scientist in <a>Ho Chi Minh City University of Industry and Trade (HUIT)</a></h3>
@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 Currently I am interning at a company in District 7, Ho Chi Minh City. 
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Ubuntu, AWS**
 
 💬 Ask me about *Java, Python, React, Firebase... or anything [here](https://github.com/phuclaits/phuclaits/issues)**
 
@@ -37,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,aws,gcp,ubuntu,linux,postman" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,nextjs,mysql,graphql" /><br>
 </div>
 
@@ -66,11 +66,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
