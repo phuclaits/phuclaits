@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Ubuntu, AWS**
 
-💬 Ask me about *Java, Python, React, Firebase... or anything [here](https://github.com/phuclaits/phuclaits/issues)**
+💬 Ask me about *Java, Python, React, Firebase... or anything [here](https://github.com/phuclaits?tab=repositories)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
